@@ -1,3 +1,5 @@
+[Binary Download](https://github.com/downloads/awlawl/TokenReplace/TokenReplace.zip)
+
 <b>TokenReplace</b> is a very simple windows command line tool that uses the settings in its config file to replace tokens in any text file.
 
 So for example, using this TokenReplace.exe.config:
