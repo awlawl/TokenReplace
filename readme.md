@@ -30,5 +30,5 @@ Will create a file named "output.txt" that contains:
 Tokens are surrounded by @ symbols and tokens that contain escaped xml are surrounded by %
 
 ###But why? Aren't there a million ways to do this in some kind of shell script?
-I use Octopus for deployments. Right now it manages the settings only through appSettings and connectionString replacements in .config files. So this is a way to bridge the gap between what it can do now and a more generic token replacement.
+I use Octopus for deployments. Right now it manages the settings only through appSettings and connectionString replacements in .config files. So this is a way to bridge the gap between what it can do now and the more generic token replacement that I needed.
 
